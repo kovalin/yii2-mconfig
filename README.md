@@ -1,3 +1,5 @@
+<h1 align="center">Yii2 MConfig Module</h1>
+
 Configuration
 -----------------------
 
