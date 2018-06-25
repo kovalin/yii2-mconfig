@@ -6,7 +6,7 @@
         "yii2",
         "yii2-module",
         "yii2-config-module",
-        "yii2-mconfig-module",
+        "yii2-mconfig-module"
     ],
     "license": "MIT",
     "authors": [
