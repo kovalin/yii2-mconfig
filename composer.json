@@ -1,7 +1,7 @@
 {
     "name": "kovalin/yii2-mconfig",
     "description": "Yii2 MConfig Module",
-    "type": "yii2-module",
+    "type": "yii2-extension",
     "keywords": [
         "yii2",
         "yii2-module",
@@ -14,5 +14,10 @@
             "name": "Anton Kovalin",
             "email": "9820498@gmail.com"
         }
-    ]
+    ],
+	"autoload": {
+        "psr-4": {
+            "yii2mod\\mconfig\\": ""
+        }
+    },
 }
