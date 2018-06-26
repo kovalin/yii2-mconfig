@@ -31,8 +31,8 @@ git clone https://github.com/kovalin/yii2-mconfig.git
 mv yii2-mconfig mconfig
 ```
 
-Configuration
------------------------
+
+### Configuration
 
 **Database Migrations**
 
