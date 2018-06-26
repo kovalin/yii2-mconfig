@@ -41,6 +41,7 @@ Before using Comments Widget, we'll also need to prepare the database.
 php yii migrate --migrationPath=modules/mconfig/migrations
 ```
 
+**Config your Yii app**
 
 Once the extension is installed, simply modify your application configuration as follows:
 
