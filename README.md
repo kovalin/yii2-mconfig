@@ -63,5 +63,5 @@ return [
 You can get param:
 
 ```php
-use - Yii::$app->MConfig->get('adminEmail');
+Yii::$app->MConfig->get('adminEmail');
 ```
