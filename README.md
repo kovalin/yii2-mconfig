@@ -59,7 +59,8 @@ return [
 ];
 ```
 
-You can get param:
+
+### Usage
 
 ```php
 Yii::$app->MConfig->get('adminEmail');
