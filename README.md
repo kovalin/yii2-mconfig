@@ -62,6 +62,8 @@ return [
 
 ### Usage
 
+You can use this code in any place of your app.
+
 ```php
 Yii::$app->MConfig->get('adminEmail');
 ```
