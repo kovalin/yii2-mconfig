@@ -13,7 +13,7 @@ use app\models\Config;
 
 class MConfig extends Component {
 
-    protected $data = array();
+    protected $data = [];
 
     public function init()
     {
