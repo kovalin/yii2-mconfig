@@ -10,7 +10,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\ConfigSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Configs';
+$this->title = 'MConfig';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="config-index">
